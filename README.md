@@ -2,7 +2,7 @@
 
  Valenzuela Lerma Briayan David 4AVP
 
-<a href="briayanvalenzuela.github.io/Practica1.html">practica1</a>
+<a href="briayanvalenzuela.github.io/practica1.html">practica1</a>
 
 <a href="briayanvalenzuela.github.io/practica2.html">practica2</a>
 
