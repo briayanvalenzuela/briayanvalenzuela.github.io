@@ -8,7 +8,7 @@
 
 <a href="https://briayanvalenzuela.github.io/practica3.html">practica3</a>
 
-<a href="briayanvalenzuela.github.iopractica 4.html">practica4</a>
+<a href="https://briayanvalenzuela.github.io/practica4.html">practica4</a>
 
 <a href="https://briayanvalenzuela.github.io/practica5.html">practica5</a>
 
