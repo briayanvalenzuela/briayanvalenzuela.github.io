@@ -14,6 +14,6 @@
 
 <a href="briayanvalenzuela.github.io/practica6.html">practica6</a>
 
-<a href="briayanvalenzuela.github.io/practica7.html">practica7</a>
+<a href="https://briayanvalenzuela.github.io/carousel.html">practica7</a>
 
 <a href="https://briayanvalenzuela.github.io/practica8.html">practica8</a>
