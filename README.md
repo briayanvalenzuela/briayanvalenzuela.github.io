@@ -12,7 +12,7 @@
 
 <a href="https://briayanvalenzuela.github.io/practica5.html">practica5</a>
 
-<a href="briayanvalenzuela.github.io/practica6.html">practica6</a>
+<a href="https://briayanvalenzuela.github.io/practica6.html">practica6</a>
 
 <a href="https://briayanvalenzuela.github.io/carousel.html">practica7</a>
 
